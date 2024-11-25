@@ -7,7 +7,7 @@ import os
 
 app = Flask(__name__)
 
-MODEL_PATH = os.path.join('model', 'waste_classifier_model.h5')
+MODEL_PATH = os.path.join('model', 'best_model_classification.keras')
 
 model = tf.keras.models.load_model(MODEL_PATH)
 
