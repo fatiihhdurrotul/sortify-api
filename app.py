@@ -29,14 +29,14 @@ recommendations = {
         {'title': 'Artistic Glass Products', 'link': 'https://example.com/artistic-glass-products'}
     ],
     'Logam': [
-        {'title': 'Reusable Utensils', 'link': 'https://example.com/reusable-utensils'},
+        {'title': ' Crafting Miniature Masterpieces: Upcycling Aluminum Cans into Tiny Pots', 'link': 'https://youtube.com/shorts/00L3nudLdGo?si=1p7SY4gemVjfZETS'},
         {'title': 'Recycled Metal Art', 'link': 'https://example.com/recycled-metal-art'},
         {'title': 'Metal Containers', 'link': 'https://example.com/metal-containers'}
     ],
     'Plastik': [
-        {'title': 'Reusable Utensils', 'link': 'https://example.com/reusable-utensils'},
-        {'title': 'Recycled Metal Art', 'link': 'https://example.com/recycled-metal-art'},
-        {'title': 'Metal Containers', 'link': 'https://example.com/metal-containers'}
+        {'title': 'Plastic Bottle Flower Vase DIY Ideas | Home Decor |', 'link': 'https://youtu.be/hYDkLNW4deU?si=8ooHLOd4hsi7VS9z'},
+        {'title': 'Upcycled coffee sachet / Plastic wrapper purse', 'link': 'https://youtu.be/uIFvr71I8Go?si=oiciu1Zm0_cw4_vs'},
+        {'title': 'DIY Plastic Bottle Enchanted Rose | Best Out of Waste |', 'link': 'https://youtu.be/cGJdhgCA9JE?si=2TL2Y-NFb8HIXJ7U'}
     ],
     'Residu': [
         {'title': 'Reusable Utensils', 'link': 'https://example.com/reusable-utensils'},
